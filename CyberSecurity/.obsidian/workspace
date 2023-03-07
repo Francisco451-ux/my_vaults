@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "975a3944efbe640d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccf548b7af8d140b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Interrogating Network Traffic With Capture and Display Filters.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eea2196b51d977d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9677fcf48bdc3c44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9376a673524cc16a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d03ae251d44d3b01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ntlm",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "998433944ad67abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Forensics 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "e81de2a780786351",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7a846da17bc48ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eddd175d4ceb847",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interrogating Network Traffic With Capture and Display Filters.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "m",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315,
+    "collapsed": true
+  },
+  "active": "ccf548b7af8d140b",
+  "lastOpenFiles": [
+    "Intro To Pwntools.md",
+    "shells/shell.md",
+    "Password Attacks.md",
+    "python.md",
+    "Regular expressions.md",
+    "The Lay of the land WINDOWS_Networking_Discover.md",
+    "Windows Local Persistence.md",
+    "Windows Internals.md",
+    "Ngrok.md",
+    "OPSEC.md"
+  ]
+}
